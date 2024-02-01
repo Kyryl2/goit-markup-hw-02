@@ -13,7 +13,7 @@ a{text-decoration: none;}
     font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
         text-transform: uppercase;
         color: #2e2f42;
     }
@@ -21,25 +21,26 @@ a{text-decoration: none;}
 .header{
     
         
-         background: #fff;}
+         background-color: #fff;}
 
 .logo{
     font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
         }
 
 .nav-list-item{
    
-    background: #fff;
+    background-color: #fff;
     
     }
        
 .nav-list-item-link,
-.nav-list-item-link-1
+.nav-list-item-link-p
 {
     font-family: "Roboto", sans-serif;
         font-weight: 500;
@@ -107,7 +108,8 @@ font-family: "Roboto", sans-serif;
 font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #f4f4fd;
 
