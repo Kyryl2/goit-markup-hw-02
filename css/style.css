@@ -46,18 +46,19 @@ a{text-decoration: none;}
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
+        letter-spacing: 0.02em;
         
         color: #2e2f42;
        }
 .nav-list-item-link:hover,
-.nav-list-item-link-1:hover
+.nav-list-item-link-p:hover
 {
 font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     color: #404bbf;}
-.nav-list-item-link-1:active{
+.nav-list-item-link-p:active{
     font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 16px;
@@ -119,6 +120,7 @@ font-family: "Raleway", sans-serif;
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
+        letter-spacing: 0.02em;
         color: #f4f4fd;
 }
 .header-2{font-family: "Roboto", sans-serif;
