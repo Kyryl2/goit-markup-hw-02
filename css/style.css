@@ -97,14 +97,25 @@ a{text-decoration: none;}
 .section-button-title{font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
+    text-align: center;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
     color: #fff;}
 .button-cursor {
     
     background-color: #4d5ae5;
     cursor: pointer;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+
+
+
 }
-.button-cursor:hover{
+.button-cursor:hover
+.button-cursor:focus
+{
     background-color: #404bbf;}
 .our-team-section{
     background: #f4f4fd;
@@ -131,13 +142,13 @@ font-family: "Raleway", sans-serif;
         letter-spacing: 0.02em;
         color: #f4f4fd;
 }
-.header-2{font-family: "Roboto", sans-serif;
+.header-second{font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11111;
     text-transform: capitalize;
     color: #2e2f42;}
-.header-3{
+.header-third{
     font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 20px;
